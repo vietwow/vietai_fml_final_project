@@ -115,7 +115,16 @@ jupyter notebook 01_EDA.ipynb
 jupyter notebook 02_Training.ipynb
 ```
 
-### Bước 3: Khởi động API
+### Bước 3: Interference
+
+[Docker way] (recommended) :
+```bash
+./run.sh
+```
+then choose 5 for both starting API (backend) and Streamlit (frontend)
+
+[Manual way]
+Khởi động API
 
 ```bash
 cd api
