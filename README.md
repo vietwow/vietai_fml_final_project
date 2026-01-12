@@ -117,14 +117,14 @@ jupyter notebook 02_Training.ipynb
 
 ### Bước 3: Interference
 
-*[Docker way] (recommended)*
+#### [Docker] : recommended
 
 ```bash
 ./run.sh
 ```
 then choose 5 for both starting API (backend) and Streamlit (frontend)
 
-*[Manual way]*
+#### [Manual]
 
 Khởi động API
 
