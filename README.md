@@ -117,13 +117,15 @@ jupyter notebook 02_Training.ipynb
 
 ### Bước 3: Interference
 
-[Docker way] (recommended) :
+*[Docker way] (recommended)*
+
 ```bash
 ./run.sh
 ```
 then choose 5 for both starting API (backend) and Streamlit (frontend)
 
-[Manual way]
+*[Manual way]*
+
 Khởi động API
 
 ```bash
@@ -135,7 +137,7 @@ API sẽ khả dụng tại: http://localhost:8000
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
 
-### Bước 4: Khởi động Streamlit App
+Khởi động Streamlit App
 
 ```bash
 cd app
